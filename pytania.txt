@@ -7,3 +7,5 @@
 Odpowiedzi:
 ==============================================================================
 
+zad1: stala = 2.7182818 const float (matematyczne e)
+zad2: krp git blame 
